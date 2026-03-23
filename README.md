@@ -155,7 +155,7 @@ This project uses the free [DummyJSON](https://dummyjson.com/) API:
 
 I believe the best PMs are the ones who earn engineers' trust by understanding *how* things are built — not just *what* to build. Projects like this help me speak the language of my future dev teams and write specs that are actually implementable.
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/bijaymandal-work/) | [GitHub](#)
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/bijaymandal-work/)
 
 ---
 
