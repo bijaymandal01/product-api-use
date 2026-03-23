@@ -1,6 +1,5 @@
 # 🛍️ Product Catalog App — API Integration Project
 
-> **Built by Bijay Mandal** | Aspiring Product Manager  
 > *A hands-on project to understand real API complexity, developer workflows, and tester challenges — enabling better product planning and cross-functional communication.*
 
 ---
@@ -8,6 +7,7 @@
 ## 📌 Project Overview
 
 This is a dynamic product catalog web application that fetches real product data from the [DummyJSON API](https://dummyjson.com/). Users can browse all products and filter them by category — all rendered live from an external REST API.
+[click here for a taste](https://bijaymandal01.github.io/product-api-use/)
 
 **Tech Stack:** HTML · CSS · Vanilla JavaScript · REST API (DummyJSON)
 
